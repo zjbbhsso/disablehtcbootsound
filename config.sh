@@ -59,7 +59,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "   Disable HTC Startup Sound   "
+  ui_print "Disable HTC Boot Sound         "
   ui_print "*******************************"
 }
 
