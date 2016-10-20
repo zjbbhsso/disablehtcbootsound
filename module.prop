@@ -4,6 +4,6 @@ version=v1
 versionCode=1
 author=zjbbhsso
 description=Disable HTC boot sound (HTC_Sense5_Boot.mp3)
-support=
+support=http://forum.xda-developers.com/apps/magisk/module-disable-htc-boot-sound-t3484185
 donate=
 cacheModule=true
